@@ -1,16 +1,54 @@
 {
-    "7624679472": "Infinite Yield",
-    "10868847330": "ExSer SS",
-    "10059477467": "Dex Explorer",
-    "7624679472": "Infinite Yield",
-    "9172247694": "Neko 1",
-    "0x22646e81a": "Neko 2",
-    "0x2284d88b5": "Neko 3",
-    "7192763922": "HD Admin Ranker",
-    "12716271380": "k00pgui v6",
-    "12628864862": "Bre4dkidd gui v2",
-    "12757917329": "Bre4dkidd gui v3",
-    "9567162466": "DLNK",
-    "13473745382": "Anime Hub V3",
-    "9275293020": "Krono Hub"
+    "7624679472": {
+        "name": "Infinite Yield",
+        "encoded": "0x1c6a5db68"
+    },
+    "10868847330": {
+        "name": "ExSer SS",
+        "encoded": "0x287d572e2"
+    },
+    "10059477467": {
+        "name": "Dex Explorer",
+        "encoded": "0x258f4e42b"
+    },
+    "9172247694": {
+        "name": "Neko 1",
+        "encoded": "0x2234e9e5e"
+    },
+    "0x22646e81a": {
+        "name": "Neko 2",
+        "unencoded": "14645739706"
+    },
+    "0x2284d88b5": {
+        "name": "Neko 3",
+        "unencoded": "14756048821"
+    },
+    "7192763922": {
+        "name": "HD Admin Ranker",
+        "encoded": "0x1ac3f2a92"
+    },
+    "12716271380": {
+        "name": "k00pgui v6",
+        "encoded": "0x2f3e61f54"
+    },
+    "12628864862": {
+        "name": "Bre4dkidd gui v2",
+        "encoded": "0x2ef7b6c5e"
+    },
+    "12757917329": {
+        "name": "Bre4dkidd gui v3",
+        "encoded": "0x2f6b962b1"
+    },
+    "9567162466": {
+        "name": "DLNK",
+        "encoded": "0x239b6dca2"
+    },
+    "13473745382": {
+        "name": "Anime Hub V3",
+        "encoded": "0x32394c476"
+    },
+    "9275293020": {
+        "name": "Krono Hub",
+        "encoded": "0x22737ea2c"
+    }
 }
