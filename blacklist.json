@@ -22,7 +22,7 @@
     "9266104501": {
         "name": "Neko 3",
         "encoded": "0x2284d88b5"
-    }
+    },
     "7192763922": {
         "name": "HD Admin Ranker",
         "encoded": "0x1acb8de12"
@@ -48,7 +48,7 @@
         "encoded": "0x3231909e6"
     },
     "9275293020": {
-        "name": "Krono Hub"
+        "name": "Krono Hub",
         "encoded": "0x228d9bd5c"
     }
 }
