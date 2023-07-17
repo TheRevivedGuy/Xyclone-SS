@@ -15,40 +15,40 @@
         "name": "Neko 1",
         "encoded": "0x2234e9e5e"
     },
-    "0x22646e81a": {
+    "9232115738": {
         "name": "Neko 2",
-        "unencoded": "14645739706"
+        "encoded": "0x22646e81a"
     },
-    "0x2284d88b5": {
+    "9266104501": {
         "name": "Neko 3",
-        "unencoded": "14756048821"
-    },
+        "encoded": "0x2284d88b5"
+    }
     "7192763922": {
         "name": "HD Admin Ranker",
-        "encoded": "0x1ac3f2a92"
+        "encoded": "0x1acb8de12"
     },
     "12716271380": {
         "name": "k00pgui v6",
-        "encoded": "0x2f3e61f54"
+        "encoded": "0x2f5f2e714"
     },
     "12628864862": {
         "name": "Bre4dkidd gui v2",
-        "encoded": "0x2ef7b6c5e"
+        "encoded": "0x2f0bd2f5e"
     },
     "12757917329": {
         "name": "Bre4dkidd gui v3",
-        "encoded": "0x2f6b962b1"
+        "encoded": "0x2f86e5e91"
     },
     "9567162466": {
         "name": "DLNK",
-        "encoded": "0x239b6dca2"
+        "encoded": "0x23a3f5062"
     },
     "13473745382": {
         "name": "Anime Hub V3",
-        "encoded": "0x32394c476"
+        "encoded": "0x3231909e6"
     },
     "9275293020": {
         "name": "Krono Hub",
-        "encoded": "0x22737ea2c"
+        "encoded": "0x228d9bd5c"
     }
 }
