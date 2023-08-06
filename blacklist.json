@@ -98,5 +98,10 @@
         "name": "Dev Console",
         "encoded": "0x166a0452c",
         "comment": "Console"
+    },
+    "13158701772": {
+        "name": "k00pgui V2",
+        "encoded": "0x31051dacc",
+        "comment": "Server Destroyer + Skidded"
     }
 }
