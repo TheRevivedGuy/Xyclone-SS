@@ -108,5 +108,10 @@
         "name": "Project Scripted V2",
         "encoded": "0x17604b4fb",
         "comment": "Abusive Hub"
+    },
+    "4867426485": {
+        "name": "Self-Destruct (SD)",
+        "encoded": "0x1221f08b5",
+        "comment": "Server Destroyer"
     }
 }
