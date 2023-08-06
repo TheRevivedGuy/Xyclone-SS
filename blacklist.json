@@ -103,5 +103,10 @@
         "name": "k00pgui V2",
         "encoded": "0x31051dacc",
         "comment": "Server Destroyer + Skidded"
+    },
+    "6274987259": {
+        "name": "Project Scripted V2",
+        "encoded": "0x17604b4fb",
+        "comment": "Abusive Hub"
     }
 }
