@@ -113,5 +113,10 @@
         "name": "Self-Destruct (SD)",
         "encoded": "0x1221f08b5",
         "comment": "Server Destroyer"
+    },
+    "14840517635": {
+        "name": "Mid's Hub V3",
+        "encoded": "0x374905403",
+        "comment": "Abusive hub"
     }
 }
